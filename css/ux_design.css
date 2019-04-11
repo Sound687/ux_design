@@ -1,10 +1,13 @@
 .logo{
     top:100px;
-    left:170px;
+    left:160px;
     width:200px;
     height:120px;
     position:top-left;
     padding-top: 60px;
+
+
+
 }
 
 .logout {
